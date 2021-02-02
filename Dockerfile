@@ -1,5 +1,7 @@
 FROM centos:7
 
+WORKDIR /root
+
 ENV PATH=$PATH:"/root/depot_tools"
 
 RUN yum groupinstall -y "Development Tools" \
