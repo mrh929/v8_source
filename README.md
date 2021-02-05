@@ -1,8 +1,6 @@
 ### What is This?
 
-This is a docker that automatically downloads the v8 source code. You can submit it directly to [dockerhub](hub.docker.com)
-
-, and it will automatically fetch v8 for you.
+This is a docker that automatically downloads the v8 source code. You can submit it directly to [dockerhub](hub.docker.com), and it will automatically fetch v8 for you.
 
 ### Why This?
 
